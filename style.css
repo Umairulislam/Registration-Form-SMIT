@@ -1,0 +1,85 @@
+.top {
+    background-color: rgb(25,25,25);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.head {
+    text-align: center;
+}
+.img1 {
+    width: 300px;
+}
+.h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: 'Crimson Text', serif;
+    text-shadow: 2px 2px 5px whitesmoke;
+}
+
+
+
+
+
+#Form-email3 {
+    color: white !important;
+}
+.text, #text2 {
+    color: white !important;
+    font-size: 22px !important;
+    font-family: 'Crimson Text', serif;
+
+}
+.text1, .pt-3-half, .text-center  {
+    color: white !important;
+    font-size: 18px !important;
+    font-family: 'Crimson Text', serif;
+}
+
+
+
+
+
+
+#card1 {
+    background-color: rgb(85,85,85) !important;
+}
+
+#card2 {
+    background-color:rgb(25,25,25);
+}
+
+.foot {
+    padding-top: 30px !important;
+    text-align: center !important;
+}
+
+
+
+
+
+.button {
+    background-color: rgb(25,25,25);
+    color: white;
+    width: 120px;
+    height: 50px;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
+#submit {
+    text-align: center !important;
+    color: white;
+    background-color: rgb(17,17,17);
+}
